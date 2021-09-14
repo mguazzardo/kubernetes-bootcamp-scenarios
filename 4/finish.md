@@ -1,1 +1,1 @@
-#In this tutorial you learned how to do basic troubleshooting for your Kubernetes applications. You should now know what commands to use to view logs, list resources and execute commands in the containers. #
+#En este tutorial hemos aprendido lo basico de como hacer troubleshooting a nuestras aplicaciones corriendo en kubernetes. Ya deberiamos saber como ver logs , listar recursos y correr comandos en los contenedores#
